@@ -57,7 +57,13 @@ h2 {
       font-size: 18px; } 
       .ho2{
         height: auto! important;
-      }}
+      }
+    .ho3{
+      display: none;
+    }
+  .ho4{
+    display: none;
+  }}
 
 .maine-menu {
   position: absolute;
@@ -88,7 +94,7 @@ h2 {
     transform: rotate(46deg) translate(-4px, -8px); }
   @media (max-width: 991px) {
     .maine-menu .navbar-nav {
-      float: right; }
+      float: left; }
       .maine-menu .navbar-nav li .nav-link {
         font-family: "PT-Sans-Bold";
         font-size: 16px;
