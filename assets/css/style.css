@@ -56,7 +56,8 @@ h2 {
     h2 {
       font-size: 18px; } 
       .ho2{
-        height: auto! important;
+        height: 800px! important;
+        width: auto! important;
       }
     /* .ho3{
       display: none;
